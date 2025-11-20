@@ -8,7 +8,9 @@
 
 ## 0. Explanation Video
 <video src="video.mp4" controls width="600">
+  Tu navegador no soporta el elemento <code>video</code>.
 </video>
+
 ---
 
 ## 1. Project Overview
