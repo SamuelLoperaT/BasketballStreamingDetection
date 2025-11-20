@@ -155,11 +155,12 @@ http://localhost:8080
 project-root/
 ├── Proyecto.ipynb                 # Training notebook (dataset, training, testing)
 ├── App.py                         # Gradio-based deployment script
-├── Basket-Model/
-│   └── checkpoint_best_total.pth  # Trained RF-DETR weights
 ├── requirements.txt               # Dependencies
 └── README.md                      # Project documentation
 ```
 
 ---
 
+## 7. Final Consideration
+
+For filesize reasons, neither the Dataset or the model Weights are included in this repository, they model weights can be found in our [HuggingFace Page](https://huggingface.co/Senshi5620/BasketballStreamingDetection/tree/main)
