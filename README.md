@@ -4,6 +4,12 @@
 **Authors:** Andres Restrepo Botero, Juan Jose Sanchez Sanchez, Samuel Lopera Torre  
 **Python:** 3.11+  
 **Dependencies:** PyTorch ≥ 2.0, torchvision ≥ 0.15, rfdetr, OpenCV, Gradio
+---
+
+## 0. Explanation Video
+
+<video src="video.mp4" width="320" height="240" controls></video>
+
 
 ---
 
