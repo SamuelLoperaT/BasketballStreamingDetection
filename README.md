@@ -7,8 +7,8 @@
 ---
 
 ## 0. Explanation Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hMdCB8-_oI?si=2ELlNfb-IfkKZJHd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video src="video.mp4" controls width="600">
+</video>
 ---
 
 ## 1. Project Overview
