@@ -1,0 +1,5 @@
+.venv
+.lightning_studio
+Basketball-Players-1
+Basket-Model
+*.pth
