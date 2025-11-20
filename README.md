@@ -7,9 +7,8 @@
 ---
 
 ## 0. Explanation Video
-<video src="video.mp4" controls width="600">
-  Tu navegador no soporta el elemento <code>video</code>.
-</video>
+<video src="https://raw.githubusercontent.com/SamuelLoperaT/BasketballStreamingDetection/main/video.mp4" controls width="600"></video>
+
 
 ---
 
